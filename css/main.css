@@ -137,6 +137,13 @@ h6, .h6 {
 .single-contact-info h6 {
   text-transform: uppercase;
 }
+
+h5 {
+  color: rgb(209, 188, 0);
+  margin-bottom: 25px;
+  font-size: 30px;
+  font-weight: 600;
+}
 h6 {
   color: #fff;
   margin-bottom: 25px;
